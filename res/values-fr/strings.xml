@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">crampter</string>
+    <string name="texteAide">Besoin d\'aide ? :3</string>
+    <string name="texteWelcome">BIENVENUE</string>
+    <string name="tonScoreEst">"Ton score est "</string>
+    <string name="TuTesFaitBattrePar">. Tu t\'es fais battre par</string>
+    <string name="avecUnScoreDe">", avec un score de "</string>
+    <string name="bravo">"Bravo! Tu as battu le record avec un score de "</string>
+    <string name="firstPlayer">"T'es le premier à jouer! Ton score est "</string>
+    <string name="yourName">"Ton pseudo ? "</string>
+    <string name="scoreBeaten">"Ton score est %1$f, tu t'es fais battre par %2$s, avec un score de %3$f  "</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">crampter</string>
+    <string name= "texteAide">Need help ? ^^</string>
+    <string name= "texteWelcome">WELCOME</string>
+    <string name= "tonScoreEst">Your score is </string>
+    <string name="TuTesFaitBattrePar">. You got beaten by </string>
+    <string name="avecUnScoreDe">, with a score of </string>
+    <string name="bravo" >Congrats ! You broke the record with a score of </string>
+    <string name="firstPlayer">"Youre the first to play! Your score is "</string>
+    <string name="yourName">"Your username ?  "</string>
+    <string name="scoreBeaten">"Your score is %1$f, you got beaten by %2$s, with a score of %3$f  "</string>
+
+</resources>
